@@ -1,0 +1,11 @@
+# dml-arch-fixes module list
+# Format: name|git_url|branch
+mod-ah-bot-plus|https://github.com/NathanHandley/mod-ah-bot-plus.git|master
+mod-dungeon-master|https://github.com/InstanceForge/mod-dungeon-master.git|master
+mod-individual-progression|https://github.com/ZhengPeiRu21/mod-individual-progression.git|master
+mod-instance-reset|https://github.com/azerothcore/mod-instance-reset.git|master
+mod-multibot-bridge|https://github.com/Wishmaster117/mod-multibot-bridge.git|master
+mod-optimal-bot-raid|https://github.com/barnaclebarry/mod-optimal-bot-raid.git|master
+mod-player-bot-level-brackets|https://github.com/DustinHendrickson/mod-player-bot-level-brackets.git|master
+mod-playerbots|https://github.com/liyunfan1223/mod-playerbots.git|main
+mod-profession-progression|https://github.com/TopHatMan/mod-profession-progression.git|master

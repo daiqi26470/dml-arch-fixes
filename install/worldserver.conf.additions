@@ -1,0 +1,4 @@
+
+# dml-arch-fixes additions
+Playerbots.Updates.EnableDatabases = 0
+Updates.EnableDatabases = 0

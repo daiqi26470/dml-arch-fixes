@@ -1,0 +1,5 @@
+--- a/src/Lab/DcLabInject.cpp
++++ b/src/Lab/DcLabInject.cpp
+@@ MoveKnackbackFrom @@
+-        u->GetMotionMaster()->MoveKnackbackFrom(sx, sy, xy, z, true);
++        u->GetMotionMaster()->MoveKnackbackFrom(sx, sy, xy, z);
